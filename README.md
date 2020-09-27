@@ -25,17 +25,23 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
         <li>Open [http://localhost:3000](http://localhost:3000) to view it in the browser.</li>
     </ul>
 2. Mistakenly deleted something? and do not know where:
-    Best sugguestion would be try re-downloading from github and replace original BioData.ks with your editing one.
-    Still doesn't work? O'm sorry to tell but Please prefer re-writing.
+    <ul>
+        <li>Best sugguestion would be try re-downloading from github and replace original BioData.ks with your editing one.
+            Still doesn't work? O'm sorry to tell but Please prefer re-writing.</li>
+    </ul>    
 2. Request to add new info:
-    If coding person than follow these steps:
-        a. Navigate to App.js
-        b. Inside App Function you will see HTML code of all the headings
-        c. Add Heading in {h1} tag as others are displayed.
-        d. Add your data in {p} tag.
+    <ul>
+        If coding person than follow these steps:
+            a. Navigate to App.js
+            b. Inside App Function you will see HTML code of all the headings
+            c. Add Heading in {h1} tag as others are displayed.
+            d. Add your data in {p} tag.
+    </ul>
     If unaware of coding than follow these steps:
         a. Email me at: ammarkhan9094@gmail.com 
         b. I may response within 24Hours and will try to help you make a professtional CV
 3. Image not working? "Error: Loading Image?":
-    If your picture is uploaded on any social site please copy it's link and paste it in the 'BioData.js' {image} tag.
-    It will most probably work. If not than Email me at: ammarkhan9094@gmail.com 
+    <ul>
+        <li>If your picture is uploaded on any social site please copy it's link and paste it in the 'BioData.js' {image} tag.
+            It will most probably work. If not than Email me at: ammarkhan9094@gmail.com </li>
+    </ul>
