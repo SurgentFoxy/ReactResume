@@ -32,10 +32,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 2. Request to add new info:
     <ul>
         If coding person than follow these steps:
-            a. Navigate to App.js
-            b. Inside App Function you will see HTML code of all the headings
-            c. Add Heading in {h1} tag as others are displayed.
-            d. Add your data in {p} tag.
+        <ol type='a'>
+            <li>Navigate to App.js</li>
+            <li>Inside App Function you will see HTML code of all the headings.</li>
+            <li>Add Heading in {h1} tag as others are displayed.</li>
+            <li>Add your data in {p} tag.</li>
+        </ol>
     </ul>
     If unaware of coding than follow these steps:
         a. Email me at: ammarkhan9094@gmail.com 
