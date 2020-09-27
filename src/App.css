@@ -1,0 +1,63 @@
+img.rounded-corners {
+    border-radius: 20px;    
+    width : 200px;
+    height: 200px;    
+  }
+
+div{
+    padding-left: 0.7cm;    
+  }
+h1{
+    padding-top: 0.2cm;
+    font-size: 12px;
+    font-family: Arial;
+    color : grey;
+  }
+p{
+    color : black;
+    font-size: 16px;
+    font-family: Arial, Helvetica;    
+    font-weight: bold;
+  }
+h1:hover{
+    text-decoration: underline;
+}
+.links{
+    color: rgb(6, 101, 190);
+    text-decoration: underline;
+}
+.socialimage{
+    width: 20px;
+    height: 20px;
+}
+.vl {
+  border-left: 30px solid rgb(18, 80, 196);  
+  height: 760px;
+  position: absolute;
+  left: 0%;
+  padding-top: -1cm; 
+  padding-left: 0.2cm;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+footer{
+  background-color: rgb(6, 169, 190);
+  padding-left: 0.5cm;
+  padding-top: 739px;
+  height: 1px;
+  font-size: 14px;
+  font-family: Verdana, Tahoma, sans-serif;
+  text-align: right;
+}
+
