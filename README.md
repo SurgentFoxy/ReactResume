@@ -21,7 +21,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More / Troubleshoot
 1. Mistakenly closed browser?: 
-    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    <ul>
+        <li>Open [http://localhost:3000](http://localhost:3000) to view it in the browser.</li>
+    </ul>
 2. Mistakenly deleted something? and do not know where:
     Best sugguestion would be try re-downloading from github and replace original BioData.ks with your editing one.
     Still doesn't work? O'm sorry to tell but Please prefer re-writing.
