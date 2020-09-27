@@ -29,8 +29,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
     If coding person than follow these steps:
         a. Navigate to App.js
         b. Inside App Function you will see HTML code of all the headings
-        c. Add Heading in <h1> as others are displayed.
-        d. Add your data in <p>.
+        c. Add Heading in {h1} tag as others are displayed.
+        d. Add your data in {p} tag.
     If unaware of coding than follow these steps:
         a. Email me at: ammarkhan9094@gmail.com 
         b. I may response within 24Hours and will try to help you make a professtional CV
